@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+  color:white;
+}
+button{
+  background-color: rgb(104, 99, 99);
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-Click{
+ 
+  background-color:red;
+  color: white;
+  
+}
